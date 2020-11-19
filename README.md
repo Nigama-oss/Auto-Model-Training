@@ -2,4 +2,4 @@
 
 A python application which allows you to label, train and predict any object in real time, with click of few buttons.
 
-To text the application, run `main.py` file.
+To test the application, run `main.py` file.
